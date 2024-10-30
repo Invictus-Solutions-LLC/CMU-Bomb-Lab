@@ -8,16 +8,15 @@ This is an x86-64 bomb for self-study students.
 ## Lab
 
 Lab Assignments: [https://csapp.cs.cmu.edu/3e/labs.html](https://csapp.cs.cmu.edu/3e/labs.html)
+
 Bomb Lab: [https://csapp.cs.cmu.edu/3e/bomb.tar](https://csapp.cs.cmu.edu/3e/bomb.tar)
 
 
 ## Lab Authors
 
-[Randal E. Byrant](http://www.cs.cmu.edu/~bryant)
-Carnegie Mellon University
+[Randal E. Byrant](http://www.cs.cmu.edu/~bryant) - Carnegie Mellon University
 
-[David R. O'Hallaron](http://www.cs.cmu.edu/~droh)
-Carnegie Mellon University
+[David R. O'Hallaron](http://www.cs.cmu.edu/~droh) - Carnegie Mellon University
 
 
 ## Solution Author
